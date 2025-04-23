@@ -2,11 +2,15 @@
 
 ## Introdução
  Este jogo é fruto de um projeto criado pela **Imersão Alura nona edição**( mais especificamente a quarta aula da edição) e modificado a fim de promover mais imersão no game.
+
+ A temática do design tem foco na renomada série "**Round Six**" da plataforma de streaming  _**Netflix**_ e não houve modificações quanto a isto.
  
  O jogo inicial contém toda a estrutura CSS e HTML, no entanto, a parte JavaScript de interação acaba, a fim de facilitar o aprendizado da imersão, sendo projetada por meio de comandos de `Prompt`s e `Alert`s e a manipulação destes. As modificaçôes foram feitas a partir da exclusão destes prompt's e manipulação dos dados dentro do próprio escopo do site, demonstradas a seguir:
  
  ## Site
  O site, hospedado pelo próprio Github, encontra-se abaixo:
+
+ https://annurb.github.io/Jogo-Viloes-e-Herois/
  
  ## Primeira Parte
  Inicialmente, a tela começa com um botão de iniciar o game, para que o usuário possa escolher começar ou não. Além disso, há a mensagem de escolher três jogadores para o seu time, deixando claro o intuito.
