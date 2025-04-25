@@ -11,6 +11,9 @@
  O site, hospedado pelo próprio Github, encontra-se abaixo:
 
  https://annurb.github.io/Jogo-Viloes-e-Herois/
+
+  ## Tecnologias utilizadas
+ HTML5 - Javascript - CSS
  
  ## Primeira Parte
  Inicialmente, a tela começa com um botão de iniciar o game, para que o usuário possa escolher começar ou não. Além disso, há a mensagem de escolher três jogadores para o seu time, deixando claro o intuito.
